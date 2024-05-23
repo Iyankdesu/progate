@@ -1,2 +1,1 @@
-# progate
-Kode modul kursus dari platform Progate
+Kode dari hasil pembelajaran pada platform [Progate](https://progate.com/).
